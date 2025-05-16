@@ -45,7 +45,7 @@ export const navigation = [
   {
     id: "1",
     title: "Etapas",
-    url: "#pricing",
+    url: "#how-to-use",
   },
   {
     id: "2",
@@ -73,9 +73,9 @@ export const notificationImages = [notification4, notification3, notification2];
 export const companyLogos = [yourlogo, yourlogo, yourlogo, yourlogo, yourlogo];
 
 export const brainwaveServices = [
-  "Photo generating",
-  "Photo enhance",
-  "Seamless Integration",
+  "Briefing detalhado",
+  "Objetivos claros",
+  "Análise personalizada",
 ];
 
 export const brainwaveServicesIcons = [
