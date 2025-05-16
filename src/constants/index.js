@@ -40,7 +40,7 @@ export const navigation = [
   {
     id: "0",
     title: "Sobre",
-    url: "#features",
+    url: "#SobreGabriel",
   },
   {
     id: "1",
@@ -123,7 +123,7 @@ export const roadmap = [
 ];
 
 export const collabText =
-  "With smart automation and top-notch security, it's the perfect solution for teams looking to work smarter.";
+  "Crio sites e landing pages focados em performance e conversão.";
 
 export const collabContent = [
   {
