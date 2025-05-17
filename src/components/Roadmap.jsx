@@ -70,11 +70,9 @@ const Roadmap = () => (
 
       <div className="flex justify-center mt-12 md:mt-15 xl:mt-20">
         <Button onClick={() => {
-            const telefone = '5535998416972';
-            const mensagem = encodeURIComponent('Olá, vim pelo site, quero uma página profissional!');
-            const link = `https://wa.me/${telefone}?text=${mensagem}`;
+            const link = `https://www.instagram.com/gabcarvalhomelo/`;
             window.open(link, '_blank');
-}}>Quero um!</Button>
+}}>Veja mais!</Button>
       </div>
     </div>
   </Section>
