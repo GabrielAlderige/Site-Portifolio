@@ -73,11 +73,13 @@ import benefitCard3 from "./benefits/card-3.svg";
 import benefitCard4 from "./benefits/card-4.svg";
 import benefitCard5 from "./benefits/card-5.svg";
 import benefitCard6 from "./benefits/card-6.svg";
-import benefitIcon1 from "./benefits/icon-1.svg";
-import benefitIcon2 from "./benefits/icon-2.svg";
-import benefitIcon3 from "./benefits/icon-3.svg";
-import benefitIcon4 from "./benefits/icon-4.svg";
 import benefitImage2 from "./benefits/image-2.png";
+import icon1 from "./benefits/icon1.png";
+import icon2 from "./benefits/icon2.png";
+import icon3 from "./benefits/icon3.png";
+import icon4 from "./benefits/icon4.png";
+import icon5 from "./benefits/icon5.png";
+import icon6 from "./benefits/icon6.png";
 
 import discordBlack from "./socials/discord.svg";
 import facebook from "./socials/facebook.svg";
@@ -144,10 +146,6 @@ export {
   benefitCard4,
   benefitCard5,
   benefitCard6,
-  benefitIcon1,
-  benefitIcon2,
-  benefitIcon3,
-  benefitIcon4,
   benefitImage2,
   discordBlack,
   facebook,
@@ -164,4 +162,10 @@ export {
   MYSQL,
   PS,
   WP,
+  icon1,
+  icon2,
+  icon3,
+  icon4,
+  icon5,
+  icon6
 };
