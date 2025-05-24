@@ -21,6 +21,14 @@ import sliders04 from "./sliders-04.svg";
 import loading from "./loading.png";
 import background from "./background.jpg";
 import LOGOGABRIEL from "./LOGOGABRIEL.png";
+import JS from "./JS.png";
+import CSS from "./CSS.png";
+import HTML from "./HTML.png";
+import ELEMENTOR from "./ELEMENTOR.png";
+import REACT from "./REACT.png";
+import MYSQL from "./MYSQL.png";
+import PS from "./PS.png";
+import WP from "./WP.png";
 
 import curve from "./hero/curve.png";
 import robot from "./hero/robot.jpg";
@@ -147,5 +155,13 @@ export {
   telegram,
   twitter,
   personagemazul,
-  LOGOGABRIEL
+  LOGOGABRIEL,
+  JS,
+  CSS,
+  HTML,
+  ELEMENTOR,
+  REACT,
+  MYSQL,
+  PS,
+  WP,
 };
