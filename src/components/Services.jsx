@@ -26,7 +26,7 @@ const Services = () => {
               <img
                 className="w-full h-full object-cover md:object-right"
                 width={800}
-                alt="Smartest AI"
+                alt="robo futurista azul"
                 height={730}
                 src={service1}
               />
@@ -61,7 +61,7 @@ const Services = () => {
                   className="h-full w-full object-cover"
                   width={630}
                   height={750}
-                  alt="robot"
+                  alt="robo de frente com fone de ouvido"
                 />
               </div>
 
@@ -112,11 +112,10 @@ const Services = () => {
                   className="w-full h-full object-cover"
                   width={520}
                   height={400}
-                  alt="Scary robot"
+                  alt="Robo com capacete azul"
                 />
 
                 <VideoChatMessage />
-                <VideoBar />
               </div>
             </div>
           </div>

@@ -1,7 +1,7 @@
 import brainwave from "./brainwave.svg";
-import check from "./check.svg";
+import check from "./check.png";
 import brainwaveSymbol from "./brainwave-symbol.svg";
-import brainwaveWhiteSymbol from "./brainwave-symbol-white.svg";
+import brainwaveWhiteSymbol from "./checkbranco.png";
 import play from "./play.svg";
 import gradient from "./gradient.png";
 import smallSphere from "./4-small.png";
@@ -167,5 +167,5 @@ export {
   icon3,
   icon4,
   icon5,
-  icon6
+  icon6,
 };
