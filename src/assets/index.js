@@ -1,6 +1,6 @@
 import brainwave from "./brainwave.svg";
 import check from "./check.png";
-import brainwaveSymbol from "./brainwave-symbol.svg";
+import brainwaveSymbol from "./GABRIEL.png";
 import brainwaveWhiteSymbol from "./checkbranco.png";
 import play from "./play.svg";
 import gradient from "./gradient.png";

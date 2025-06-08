@@ -27,16 +27,13 @@ const Collaboration = () => {
         </div>
 
         <div className="lg:ml-auto xl:w-[38rem] mt-4">
-          <p className="body-2 mb-8 text-n-4 md:mb-16 lg:mb-32 lg:w-[22rem] lg:mx-auto">
-            {collabText}
-          </p>
 
                 <div className="flex items-center justify-center w-full h-full bg-n-8 rounded-full">
                   <img
                     src={brainwaveSymbol}
-                    width={48}
-                    height={48}
-                    alt="brainwave"
+                    width={500}
+                    height={500}
+                    alt="Gabriel Alderige"
                   />
           </div>
         </div>
