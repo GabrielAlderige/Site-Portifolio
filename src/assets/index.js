@@ -29,6 +29,7 @@ import REACT from "./REACT.png";
 import MYSQL from "./MYSQL.png";
 import PS from "./PS.png";
 import WP from "./WP.png";
+import port from "./portfolio.png";
 
 import curve from "./hero/curve.png";
 import robot from "./hero/robot.jpg";
@@ -168,4 +169,5 @@ export {
   linkedin,
   whats,
   github,
+  port,
 };
