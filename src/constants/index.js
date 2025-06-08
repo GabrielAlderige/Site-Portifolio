@@ -58,13 +58,6 @@ export const navigation = [
     title: "github",
     url: "https://github.com/GabrielAlderige",
   },
-
-  {
-    id: "5",
-    title: "Sign in",
-    url: "#login",
-    onlyMobile: true,
-  },
 ];
 
 export const heroIcons = [homeSmile, file02, searchMd, plusSquare];
