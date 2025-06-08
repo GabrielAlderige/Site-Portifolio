@@ -67,12 +67,8 @@ import notification2 from "./notification/image-2.png";
 import notification3 from "./notification/image-3.png";
 import notification4 from "./notification/image-4.png";
 
-import benefitCard1 from "./benefits/card-1.svg";
-import benefitCard2 from "./benefits/card-2.svg";
-import benefitCard3 from "./benefits/card-3.svg";
-import benefitCard4 from "./benefits/card-4.svg";
-import benefitCard5 from "./benefits/card-5.svg";
-import benefitCard6 from "./benefits/card-6.svg";
+import benefitCard1 from "./benefits/card-1.png";
+import benefitCard2 from "./benefits/card-2.png";
 import benefitImage2 from "./benefits/image-2.png";
 import icon1 from "./benefits/icon1.png";
 import icon2 from "./benefits/icon2.png";
@@ -86,6 +82,10 @@ import facebook from "./socials/facebook.svg";
 import instagram from "./socials/instagram.svg";
 import telegram from "./socials/telegram.svg";
 import twitter from "./socials/twitter.svg";
+import github from "./socials/github.svg";
+import whats from "./socials/whats.svg";
+import behance from "./socials/behance.svg";
+import linkedin from "./socials/linkedin.svg";
 
 export {
   brainwave,
@@ -142,10 +142,6 @@ export {
   notification4,
   benefitCard1,
   benefitCard2,
-  benefitCard3,
-  benefitCard4,
-  benefitCard5,
-  benefitCard6,
   benefitImage2,
   discordBlack,
   facebook,
@@ -168,4 +164,8 @@ export {
   icon4,
   icon5,
   icon6,
+  behance,
+  linkedin,
+  whats,
+  github,
 };

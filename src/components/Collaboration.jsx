@@ -19,8 +19,8 @@ const Collaboration = () => {
           </h2>
 
           <ul className="max-w-[22rem] mb-10 md:mb-14">
-            <p>Sou Gabriel Alderige, especialista em <span className="bg-gradient-to-r from-blue-500 to-purple-500 bg-clip-text text-transparent">desenvolver soluções digitais eficientes e alinhadas aos objetivos do cliente.</span> Com experiência em Sites, Landing Pages, Ecommerces, foco na entrega de projetos personalizados, com qualidade e resultado.
-              Trabalho com planejamento detalhado e comunicação transparente para garantir que cada etapa seja cumprida com excelência. Meu compromisso é transformar seu projeto em uma ferramenta que impulsione seu negócio.</p>
+            <p>Sou Gabriel Alderige, especialista em <span className="bg-blue-400 bg-clip-text text-transparent">desenvolver soluções digitais eficientes e alinhadas aos objetivos do cliente.</span> Com experiência em Sites, Landing Pages, Ecommerces, foco na entrega de projetos personalizados, com <span className="bg-blue-400 bg-clip-text text-transparent">qualidade e resultado. </span>
+               Trabalho com planejamento detalhado e comunicação transparente para garantir que cada etapa seja <span className="bg-blue-400 bg-clip-text text-transparent">cumprida com excelência. </span> Meu compromisso é transformar seu projeto em uma ferramenta que impulsione seu negócio.</p>
           </ul>
 
           <Button onClick={handleClick}>Contato</Button>

@@ -31,6 +31,10 @@ import {
   icon4,
   icon5,
   icon6,
+  whats,
+  linkedin,
+  github,
+  behance,
 } from "../assets";
 
 export const navigation = [
@@ -98,7 +102,7 @@ export const roadmap = [
     title: "Tela de Login",
     text: "Interface funcional e segura conectada a um banco de dados real. Permite autenticação eficiente de usuários, ideal para sistemas que exigem controle de acesso e armazenamento de informações com confiabilidade.",
     date: "Maio 2025",
-    status: "progress",
+    status: "done",
     imageUrl: roadmap2,
   },
   {
@@ -114,7 +118,7 @@ export const roadmap = [
     title: "Landing Page",
     text: "Página moderna e otimizada para conversão, com sistema de agendamento online integrado. Ideal para atrair novos pacientes e facilitar o agendamento direto pelo site, sem intermediários.",
     date: "Junho 2025",
-    status: "progress",
+    status: "done",
     imageUrl: roadmap4,
   },
 ];
@@ -128,7 +132,7 @@ export const benefits = [
     id: "0",
     title: "Site Responsivo",
     text: "Funciona perfeitamente em celular, tablet e desktop.",
-    backgroundUrl: "./src/assets/benefits/card-1.svg",
+    backgroundUrl: "./src/assets/benefits/card-1.png",
     iconUrl: icon1,
     imageUrl: benefitImage2,
   },
@@ -136,7 +140,7 @@ export const benefits = [
     id: "1",
     title: "Suporte Inicial",
     text: "Ajustes e orientações após a entrega do projeto.",
-    backgroundUrl: "./src/assets/benefits/card-2.svg",
+    backgroundUrl: "./src/assets/benefits/card-2.png",
     iconUrl: icon2,
     imageUrl: benefitImage2,
     light: true,
@@ -145,7 +149,7 @@ export const benefits = [
     id: "2",
     title: "Treinamento Rápido",
     text: "Aprenda a editar e atualizar seu site com facilidade.",
-    backgroundUrl: "./src/assets/benefits/card-3.svg",
+    backgroundUrl: "./src/assets/benefits/card-1.png",
     iconUrl: icon3,
     imageUrl: benefitImage2,
   },
@@ -153,7 +157,7 @@ export const benefits = [
     id: "3",
     title: "Integrações Prontas",
     text: "Formulários, WhatsApp e redes sociais conectados.",
-    backgroundUrl: "./src/assets/benefits/card-4.svg",
+    backgroundUrl: "./src/assets/benefits/card-2.png",
     iconUrl: icon4,
     imageUrl: benefitImage2,
     light: true,
@@ -162,7 +166,7 @@ export const benefits = [
     id: "4",
     title: "Textos Estratégicos",
     text: "Copy escrita para atrair, envolver e vender.",
-    backgroundUrl: "./src/assets/benefits/card-5.svg",
+    backgroundUrl: "./src/assets/benefits/card-1.png",
     iconUrl: icon5,
     imageUrl: benefitImage2,
   },
@@ -170,7 +174,7 @@ export const benefits = [
     id: "5",
     title: "Design Profissional",
     text: "Ajustes e orientações após a entrega do projeto.",
-    backgroundUrl: "./src/assets/benefits/card-6.svg",
+    backgroundUrl: "./src/assets/benefits/card-2.png",
     iconUrl: icon6,
     imageUrl: benefitImage2,
   },
@@ -182,5 +186,35 @@ export const socials = [
     title: "Instagram",
     iconUrl: instagram,
     url: "https://www.instagram.com/gabcarvalhomelo/",
+  },
+
+  {
+    id: "1",
+    title: "Github",
+    iconUrl: github,
+    url: "https://github.com/GabrielAlderige",
+  },
+
+ {
+    id: "2",
+    title: "Linkedin",
+    iconUrl: linkedin,
+    url: "https://www.linkedin.com/in/gabrielalderige/",
+  },
+
+
+   {
+    id: "3",
+    title: "Whatsapp",
+    iconUrl: whats,
+    url: "https://wa.me/5535998416972?text=Ol%C3%A1%2C%20vim%20pelo%20site%2C%20quero%20mais%20informa%C3%A7%C3%B5es%2C%20ou%20fazer%20um%20site!",
+  },
+
+
+   {
+    id: "4",
+    title: "Behance",
+    iconUrl: behance,
+    url: "https://www.behance.net/gabrielalderige",
   },
 ];
